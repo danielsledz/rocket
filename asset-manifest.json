@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Sledziux/rocket/static/css/main.8bff7776.chunk.css",
+    "main.js": "/Sledziux/rocket/static/js/main.70b30330.chunk.js",
+    "main.js.map": "/Sledziux/rocket/static/js/main.70b30330.chunk.js.map",
+    "runtime-main.js": "/Sledziux/rocket/static/js/runtime-main.529e686e.js",
+    "runtime-main.js.map": "/Sledziux/rocket/static/js/runtime-main.529e686e.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Sledziux/rocket/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.ac429e3b.chunk.js": "/Sledziux/rocket/static/js/2.ac429e3b.chunk.js",
+    "static/js/2.ac429e3b.chunk.js.map": "/Sledziux/rocket/static/js/2.ac429e3b.chunk.js.map",
+    "static/js/3.bf2ee28f.chunk.js": "/Sledziux/rocket/static/js/3.bf2ee28f.chunk.js",
+    "static/js/3.bf2ee28f.chunk.js.map": "/Sledziux/rocket/static/js/3.bf2ee28f.chunk.js.map",
+    "index.html": "/Sledziux/rocket/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Sledziux/rocket/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.8bff7776.chunk.css.map": "/Sledziux/rocket/static/css/main.8bff7776.chunk.css.map",
+    "static/js/2.ac429e3b.chunk.js.LICENSE.txt": "/Sledziux/rocket/static/js/2.ac429e3b.chunk.js.LICENSE.txt",
+    "static/media/Merlin.6f6cf478.webp": "/Sledziux/rocket/static/media/Merlin.6f6cf478.webp",
+    "static/media/electron.ed5d978f.jpg": "/Sledziux/rocket/static/media/electron.ed5d978f.jpg",
+    "static/media/electron_first.84ce288d.png": "/Sledziux/rocket/static/media/electron_first.84ce288d.png",
+    "static/media/electron_png.535bb09e.png": "/Sledziux/rocket/static/media/electron_png.535bb09e.png",
+    "static/media/falcon.0f46fac3.webp": "/Sledziux/rocket/static/media/falcon.0f46fac3.webp",
+    "static/media/falcon_png.3c31f8d1.png": "/Sledziux/rocket/static/media/falcon_png.3c31f8d1.png",
+    "static/media/sattelites.fb0bdeee.gif": "/Sledziux/rocket/static/media/sattelites.fb0bdeee.gif",
+    "static/media/starship.1fa9f260.webp": "/Sledziux/rocket/static/media/starship.1fa9f260.webp",
+    "static/media/starship_png.2ae6be5d.png": "/Sledziux/rocket/static/media/starship_png.2ae6be5d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529e686e.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.ac429e3b.chunk.js",
+    "static/css/main.8bff7776.chunk.css",
+    "static/js/main.70b30330.chunk.js"
+  ]
+}
